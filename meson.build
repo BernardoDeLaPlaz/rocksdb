@@ -166,7 +166,6 @@ src = [
   'util/arena.cc', 
   'util/auto_roll_logger.cc', 
   'util/bloom.cc', 
-  'util/build_version.cc', 
   'util/coding.cc', 
   'util/compaction_job_stats_impl.cc', 
   'util/comparator.cc', 
